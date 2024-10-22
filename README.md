@@ -1,4 +1,3 @@
-<h3 align = "center"><samp> Hi! I'm Long </samp></h3>
 <p align="center"><br>
   <samp>
     Electrical & Computer Engineering Bachelor of Engineering Candidate @ Vietnamese-German University <br>
